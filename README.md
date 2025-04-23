@@ -9,8 +9,6 @@ Any issues arising from modifications (e.g., heavy changes to the documents) are
 
 Misuse of the files in a way that causes harm or confusion is discouraged.
 
-This software is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
-
 In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from or in connection with the software or the use of the software.
 
 ## Updates
