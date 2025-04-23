@@ -1,25 +1,28 @@
 ## License and Usage
 
-You are welcome to modify the CSS and HTML files for your own projects.
-Feel free to release modified versions as your own work.
+You are permitted to modify the CSS and HTML files for use in your own projects.  
+Modified versions may be distributed and presented as your own work, provided that appropriate attribution is maintained where applicable.
 
 ## Disclaimer of Liability
 
-Any issues arising from modifications (e.g., heavy changes to the documents) are the responsibility of the user. Please ensure that your changes are tested thoroughly.
+The author is not responsible for any issues that may arise from the use or modification of these files.  
+Users are encouraged to thoroughly test any changes they implement.
 
-Misuse of the files in a way that causes harm or confusion is discouraged.
+Misuse of the files, including usage that results in harm or confusion, is strongly discouraged.
 
-In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from or in connection with the software or the use of the software.
+Under no circumstances shall the author be held liable for any claims, damages, or other liabilities, whether in an action of contract, tort, or otherwise, arising from the use of or modifications to the software.
 
 ## Updates
 
-Users are expected to review this README.md file on a monthly basis for updates. Please note that changes may occur without prior notice.
+This repository may be updated periodically without prior notice.  
+Users are encouraged to review this `README.md` file on a monthly basis to stay informed of any changes.
 
 ## Legal Notice
 
-As the owner and creator of this repository, I am under the legal age of consent in various jurisdictions, including Australia and the United States. Therefore, any legal enquiries or concerns must be directed to my parent or legal guardian.
+Please note that the repository maintainer is a minor under the legal age of consent in jurisdictions including, but not limited to, Australia and the United States.  
+For legal inquiries, please contact the maintainer's parent or legal guardian. Their contact information can be provided upon request via the email address listed below.
 
 ## Contact
 
-If you have questions or need clarification regarding the README or the project, please reach out:  
+For questions or clarification regarding this project or the contents of this README, please contact:  
 📧 **enquiries.koda@gmail.com**
