@@ -1,62 +1,80 @@
-/* Base Reset */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* Body Styling */
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
-  line-height: 1.6;
-  padding: 20px;
+	background-image: url("https://i.imgur.com/kYW2H5C.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
-/* Header */
-header {
-  background: #333;
-  color: #fff;
-  padding: 20px 0;
-  text-align: center;
+h1 {
+	color: tranparent;
+	background: url('https://i.imgur.com/kYW2H5C.jpg')   -20px -20px no-repeat;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
 }
 
-/* Navigation */
-nav ul {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  margin-top: 10px;
+h2 {
+	color: tranparent;
+	background: url('https://i.imgur.com/kYW2H5C.jpg')   -20px -20px no-repeat;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
 }
 
-nav ul li {
-  margin: 0 15px;
+.header {
+	background-color: grey;
+	text-align: center;
+	border-radius: 20px;
+	font-size: 60px;
+	transition: 1s ease;
+	font-family: arial;
+	font-weight: bold;
+	letter-spacing: -13px;
 }
 
-nav ul li a {
-  color: #fff;
-  text-decoration: none;
+.header:hover {
+	color: dark-grey;
+	border-radius: 10px;
+	font-size: 70px;
+	letter-spacing: -10px;
 }
 
-nav ul li a:hover {
-  text-decoration: underline;
+.desc {
+	background-color: darkgrey;
+	border-radius: 20px;
+	text-align: center;
+	font-size: 14px;
+	margin-top: 0px;
+	transition: 1s ease;
 }
 
-/* Main Section */
-main {
-  max-width: 800px;
-  margin: 20px auto;
-  padding: 20px;
-  background: #fff;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+.desc:hover {
+	color: dark-grey;
+	border-radius: 10px;
+	font-size: 17px;
 }
 
-/* Footer */
-footer {
-  text-align: center;
-  padding: 10px;
-  margin-top: 40px;
-  color: #777;
+.socials {
+	text-align: center;
+}
+
+button {
+	font-size: 40px;
+	margin: auto;
+	border-radius: 15px;
+}
+
+.ste {
+	background: #020024;
+	background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+	color: #383838;
+}
+
+.dis {
+	background: #00bbff;
+	background: linear-gradient(30deg, rgba(0, 187, 255, 1) 0%, rgba(54, 54, 54, 1) 100%);
+	color: #383838;
+}
+
+.X {
+	background: #9e9e9e;
+	background: linear-gradient(233deg, rgba(158, 158, 158, 1) 0%, rgba(0, 0, 0, 1) 100%);
+	color: #383838;
 }
