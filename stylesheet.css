@@ -78,3 +78,15 @@ button {
 	background: linear-gradient(233deg, rgba(158, 158, 158, 1) 0%, rgba(0, 0, 0, 1) 100%);
 	color: #383838;
 }
+
+.git {
+	background: #ffffff;
+	background: linear-gradient(20deg, rgba(255, 255, 255, 1) 0%, rgba(0, 0, 0, 1) 100%);
+	color: #383838;
+}
+
+.yt {
+	background: #ff0000;
+	background: linear-gradient(20deg, rgba(255, 0, 0, 1) 40%, rgba(0, 0, 0, 1) 100%);
+	color: #383838;
+}
